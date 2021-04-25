@@ -6,7 +6,7 @@ If you don't solve this, Dennis Ritchie will be really heartbroken :(
 nc 185.14.184.242 12990
 
 ## Files provided
-A zip containing [binary](https://github.com/TheRealOddCoder/writeups2021/S4CTF/ohbabybaby/ohbabybaby) and [source](https://gist.github.com/TheRealOddCoder/dda04fa1d757f91bb0d5ff7f0c1fa673) is provided
+A zip containing [binary](https://github.com/TheRealOddCoder/writeups2021/blob/main/S4CTF/ohbabybaby/ohbabybaby) and [source](https://gist.github.com/TheRealOddCoder/dda04fa1d757f91bb0d5ff7f0c1fa673) is provided
 
 ## Writeup
 Looking at the source, we can see there is a **ultimatePrize()** that reads **flag.txt**. But this function is never called.
