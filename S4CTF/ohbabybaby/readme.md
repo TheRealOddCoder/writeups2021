@@ -1,5 +1,5 @@
 # OhBabyBaby
-
+Thanks to y3noor for clearing queries
 
 ## Description
 If you don't solve this, Dennis Ritchie will be really heartbroken :(
